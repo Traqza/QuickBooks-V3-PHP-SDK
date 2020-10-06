@@ -1,5 +1,5 @@
 <?php
-namespace QuickBooksOnline\API\Data;
+namespace QuickBooksOnline\Data\Data;
 
 /**
  * @xmlNamespace http://schema.intuit.com/finance/v3
